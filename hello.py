@@ -20,8 +20,5 @@ while i <= 100:
 
 print("CASE 2nd, 1부터 100더하기 :", total)
 
-
-
-
-
+print("반복 업로드 테스트")
 
