@@ -21,4 +21,5 @@ while i <= 100:
 print("CASE 2nd, 1부터 100더하기 :", total)
 
 print("여러Pc 반영 테스트")
+print("glam PC 로직 수정 완료")
 
